@@ -11,13 +11,13 @@
 ###
 
 <div align="center"> <a href="https://github.com/Heruzinyo/EchoPTBR">
-  <img height="240" src="Images/EchoPTBR.png"/>
+  <img src="Images/EchoPTBR.png"/>
 </div> </a>
 
 ###
 
 <div align="center"> <a href="https://gamebanana.com/mods/503640">
-  <img height="240" src="Images/MegaMix+PTBR.png"/>
+  <img src="Images/MegaMix+PTBR.png"/>
 </div> </a>
 
 ###
@@ -27,7 +27,7 @@
 ###
 
 <div align="center"> <a href="https://open.spotify.com/intl-pt/album/3QVZGekjKQLKxk7nnXr4gH?si=eXVKyHOdTVa2LLir9PG9zQ">
-  <img height="240" src="Images/Footer.png"/>
+  <img src="Images/Footer.png"/>
 </div> </a>
 
 ###
