@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Eu gosto de traduzir jogos japoneses e FVNs (Furry Visual Novel), eu também gosto de vocaloid.</p>
+<div>
+<div align="center"> <a href="https://e621.net/posts/4752904">
+<img width=300 src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbhv2QOkRkf0kda1QFxVYtjbigVgfa_zvkPn1exkforG87e8azlVOieMFaNU7EoJ5rQ9CLtmrcyXpb1hqe2PwI-0IWPLDe7xFI=w1855-h956-rw-v1" align="right">
+</div>
+<p align="left">Eu gosto de traduzir jogos japoneses<br>e FVNs (Furry Visual Novel), eu também<br>gosto de vocaloid.</p>
+  <br><br><br><br><br><br><br><br>
+</div>
 
 ###
 
