@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center"> <a href="https://github.com/Heruzinyo/EchoPTBR](https://gamebanana.com/mods/503640">
+<div align="center"> <a href="https://gamebanana.com/mods/503640">
   <img height="240" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaNrksxrmdS68LFvS6irPEB9TjG8OeyqyFRzUMHdGaJg-p_x1fqhXV_Ij-VvOGKdSqz2mzCqgtKB3YeBBhCq9mahNhRDCJT6g=w1855-h956-rw-v1"  />
 </div> </a>
 
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="center"> <a href="https://open.spotify.com/intl-pt/album/3QVZGekjKQLKxk7nnXr4gH?si=eXVKyHOdTVa2LLir9PG9zQ>
+<div align="center"> <a href="https://open.spotify.com/intl-pt/album/3QVZGekjKQLKxk7nnXr4gH?si=eXVKyHOdTVa2LLir9PG9zQ">
   <img height="240" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYkz0cERqF03UgMoHuRJ081PLJVPIDueDid0RhC_VIvBZkjm_E-D-v_Hm1auXbYDNp8C0EzL__5GC3LkWMf0sxGZEMFYk0M55U=w1855-h956-rw-v1"  />
 </div> </a>
 
