@@ -1,16 +1,33 @@
-### Hi there 👋
+<h2 align="left">Heru/ヘル</h2>
 
-<!--
-**Heruzinyo/Heruzinyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Eu gosto de traduzir jogos japoneses e FVNs (Furry Visual Novel), eu também gosto de vocaloid.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Projetos</h2>
+
+###
+
+<div align="center">
+  <img height="306" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbuaedeFLuUNGsaotxrzVcQz1asz84sMdH36eGOfrH-pl9EpBkVEsZS3n2bo5F4N9nvBpa7B_NGmikp2EwbkwnG1n8YUzSbXGg=w1855-h956-rw-v1"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="306" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaNrksxrmdS68LFvS6irPEB9TjG8OeyqyFRzUMHdGaJg-p_x1fqhXV_Ij-VvOGKdSqz2mzCqgtKB3YeBBhCq9mahNhRDCJT6g=w1855-h956-rw-v1"  />
+</div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<div align="center">
+  <img height="306" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYkz0cERqF03UgMoHuRJ081PLJVPIDueDid0RhC_VIvBZkjm_E-D-v_Hm1auXbYDNp8C0EzL__5GC3LkWMf0sxGZEMFYk0M55U=w1855-h956-rw-v1"  />
+</div>
+
+###
