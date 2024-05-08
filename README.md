@@ -22,7 +22,7 @@
 
 ###
 
-<div align="center"> <a href="https://gamebanana.com/mods/503640">
+<div align="center"> <a href="https://github.com/Heruzinyo/MegaMixPlusPTBR">
   <img src="Images/MegaMix+PTBR.png"/>
 </div> </a>
 
