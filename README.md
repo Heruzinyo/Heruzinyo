@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Eu gosto de traduzir jogos japoneses<br>e FVNs (Furry Visual Novel), eu também<br>gosto de vocaloid.<br><br>Minhas traduções são totalmente gratuitas,<br>porém, caso você queira me dar um apoio:<br><b>PIX: dea8d54b-cf74-4c13-bf7f-8b0aa52f0b94</b><br>Ou scaneie o QR Code abaixo:<br><img width=300 src="Images/PIX QR Code.png"/></p>
+<p align="left">Eu gosto de traduzir jogos japoneses<br>e FVNs (Furry Visual Novel), eu também<br>gosto de vocaloid.<br><br>Minhas traduções são totalmente gratuitas,<br>porém, caso você queira me dar um apoio:<br><b>PIX: dea8d54b-cf74-4c13-bf7f-8b0aa52f0b94</b><br>Ou scaneie o QR Code abaixo:<br><img width=300 src="profile/PIX QR Code.png"/></p>
 </div>
 
 ###
@@ -12,13 +12,13 @@
 ###
 
 <div align="center"> <a href="https://github.com/Heruzinyo/EchoPTBR">
-  <img src="Images/EchoPTBR.png"/>
+  <img src="profile/EchoPTBR.png"/>
 </div> </a>
 
 ###
 
 <div align="center"> <a href="https://github.com/Heruzinyo/MegaMixPlusPTBR">
-  <img src="Images/MegaMix+PTBR.png"/>
+  <img src="profile/MegaMix+PTBR.png"/>
 </div> </a>
 
 ###
@@ -28,7 +28,7 @@
 ###
 
 <div align="center"> <a href="https://open.spotify.com/intl-pt/album/3QVZGekjKQLKxk7nnXr4gH?si=eXVKyHOdTVa2LLir9PG9zQ">
-  <img src="Images/Footer.png"/>
+  <img src="profile/Footer.png"/>
 </div> </a>
 
 ###
